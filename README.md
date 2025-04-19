@@ -6,14 +6,14 @@ This project implements Bayesian spatial models to analyze the spatial distribut
 
 - Spatial interpolation to predict snowfall in regions with limited or missing data.
 
-- Analysis using hierarchical modeling and geographic data.
+- Analysis using GP.
 
 ## Usage:
 - Data processing: Incorporates weather station datasets to extract relevant features.
 
-- Spatial modeling: Implements Bayesian hierarchical models with Gaussian processes.
+- Spatial modelling: Implements a Bayesian Gaussian process model.
 
-- Visualization: Generates interactive, geographically-referenced maps.
+- Visualization: Generates  geographically-referenced maps.
 
 ## Contributors:
 Ray Nguyen (@RayNguyent) \
